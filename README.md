@@ -1,6 +1,6 @@
 # Getting Started
 
-Following [Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch) and Used the Spring Initializer:
+Following [Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch) and used the Spring Initializer:
 
 
 
