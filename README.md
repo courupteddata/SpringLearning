@@ -1,6 +1,6 @@
 # Getting Started
 
-Following [Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch) and had Idea generate the template:
+Following [Spring Boot](https://spring.io/guides/gs/spring-boot/#scratch) and Used the Spring Initializer:
 
 
 
